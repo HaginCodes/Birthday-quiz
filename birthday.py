@@ -68,6 +68,8 @@ elif yrOfbirth in nineties:
     Era = "nineties"
 elif yrOfbirth in twoThousands:
     Era = "two thousands"
+else : 
+    Era = "stone age"
     
 DOB = str(input("And the day? ")) 
 
