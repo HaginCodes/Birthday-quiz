@@ -78,7 +78,7 @@ if int(DOB) == todaydate and month_name[int(todaymonth)] == birthMonth:
 elif birthMonth == "October" and int(DOB) == 31: 
     print("You were born on Halloween!") 
 else: 
-    print(name + " you are a "+ Season + " baby of the " + Era +".") 
+    print(name + " you are a "+ Season + " baby of the, " + Era +".") 
 
 
 
